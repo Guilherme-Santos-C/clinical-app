@@ -1,1 +1,1 @@
-from modules.senha import senha
+from modules.senha import *
